@@ -1,33 +1,38 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hello%20World%20👋,%20I'm%20Celal%20Ibrahimli&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" />
-
-<hr>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Hello%20World%20👋,%20I'm%20Celal%20Ibrahimli&fontSize=35&fontAlignY=75&color=gradient" />
 
 <h3 align="center">AI Engineer | Machine Learning | Deep Learning | Computer Vision</h3>
 
 <p align="center">
-Passionate about building intelligent systems and solving real-world problems using Machine Learning and Deep Learning.
+Passionate about building intelligent systems and solving real-world problems with Machine Learning and AI.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-<img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" />
+<img width="35%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" />
 
 - 🎓 Information Technologies student at **UNEC**
 - 🤖 Focused on **Machine Learning, Deep Learning and Computer Vision**
-- 🔬 Building real-world ML projects with **PyTorch and Python**
+- 🧠 Building models with **PyTorch, Python and modern ML tools**
 - 🚀 Interested in **AI Engineering, ML Systems and LLM infrastructure**
-- 📚 Always learning and experimenting with new technologies
-- ⚡ Fun fact: I enjoy turning complex ideas into working models
+- 📚 Always learning new technologies and experimenting with ideas
+- ⚡ Turning complex ideas into real working models
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a href="https://github.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40"/></a>
+
+<a href="https://www.linkedin.com/in/celal-ibrahimli-b7a47227b/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35"/>
+</a>
+
+<a href="https://celalibr.medium.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="35"/>
+</a>
+
 </p>
 
 ---
@@ -35,12 +40,14 @@ Passionate about building intelligent systems and solving real-world problems us
 # 🧠 Tech Stack
 
 ### Programming
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
 ### Machine Learning
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
@@ -49,6 +56,7 @@ Passionate about building intelligent systems and solving real-world problems us
 </p>
 
 ### Tools
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
@@ -60,27 +68,24 @@ Passionate about building intelligent systems and solving real-world problems us
 # 🚀 Featured Projects
 
 ### 🐶 Oxford Pets CNN Classifier
-Deep learning image classifier using **PyTorch CNN architecture** trained on the Oxford-IIIT Pets dataset.
+Deep learning image classifier built with **PyTorch CNN architecture** trained on the Oxford-IIIT Pets dataset.
 
 ### 🚗 Car Price Prediction
-Machine learning pipeline predicting car prices using **feature engineering, ensemble models and regression techniques**.
+Machine learning pipeline predicting car prices using **feature engineering and regression models**.
 
 ### 📈 Marketing Conversion Prediction
-End-to-end ML pipeline for predicting customer conversion with **imbalanced classification techniques**.
+End-to-end ML pipeline predicting customer conversion using **imbalanced classification techniques**.
 
 ### ✍️ Handwriting Recognition
-Deep learning system recognizing handwritten text using **CNN based architectures**.
+Deep learning system recognizing handwritten text using **CNN architectures**.
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=CelalIbrahimli&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelalIbrahimli&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 
 ---
@@ -90,19 +95,13 @@ Deep learning system recognizing handwritten text using **CNN based architecture
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/CelalIbrahimli/CelalIbrahimli/output/github-contribution-grid-snake-dark.svg"
   />
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/CelalIbrahimli/CelalIbrahimli/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
 ---
 
-# ✍️ Dev Quote
-
-![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
