@@ -65,22 +65,6 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ---
 
-# 🚀 Featured Projects
-
-### 🐶 Oxford Pets CNN Classifier
-Deep learning image classifier built with **PyTorch CNN architecture** trained on the Oxford-IIIT Pets dataset.
-
-### 🚗 Car Price Prediction
-Machine learning pipeline predicting car prices using **feature engineering and regression models**.
-
-### 📈 Marketing Conversion Prediction
-End-to-end ML pipeline predicting customer conversion using **imbalanced classification techniques**.
-
-### ✍️ Handwriting Recognition
-Deep learning system recognizing handwritten text using **CNN architectures**.
-
----
-
 # 🔥 GitHub Activity
 
 <picture>
