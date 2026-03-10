@@ -42,31 +42,63 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 # 🧠 Tech Stack
 
-### Programming
+### Programming Languages
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
 </p>
 
-### Machine Learning
+---
+
+### Machine Learning & Deep Learning
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
 </p>
 
-### Tools
+---
+
+### Data Science & Visualization
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+</p>
+
+---
+
+### AI / ML Tools
+
+<p>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40"/>
+</p>
+
+---
+
+### Dev Tools
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 ---
+
+### Deployment & Apps
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40"/>
+</p>
 
 # 🔥 GitHub Activity
 
