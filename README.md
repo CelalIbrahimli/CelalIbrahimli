@@ -21,18 +21,21 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Socials:
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/celal-ibrahimli-b7a47227b/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35"/>
-</a>
-
-<a href="https://celalibr.medium.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="35"/>
-</a>
-
+  <a href="https://www.instagram.com/celaalibr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/celal-ibrahimli-b7a47227b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://celalibr.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -76,6 +79,14 @@ Passionate about building intelligent systems and solving real-world problems wi
     src="https://raw.githubusercontent.com/CelalIbrahimli/CelalIbrahimli/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CelalIbrahimli&label=Profile%20views&color=84cc16&style=for-the-badge" alt="profile views" />
+</p>
 
 ---
 
