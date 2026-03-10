@@ -33,8 +33,8 @@ Passionate about building intelligent systems and solving real-world problems wi
   <a href="https://celalibr.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://huggingface.co/celalibr" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
 </p>
 
