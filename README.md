@@ -10,7 +10,7 @@ Passionate about building intelligent systems and solving real-world problems wi
 # 🌐 Portfolio
 
 <p align="left">
-  <a href="https://celalibrahimli.github.io/portfolio/" target="_blank">
+  <a href="https://celalthedon.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
